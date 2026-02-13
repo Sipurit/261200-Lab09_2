@@ -1,4 +1,4 @@
-package oop.lps;
+package oop.lsp;
 
 public class Eagle implements Flyable{
     @Override

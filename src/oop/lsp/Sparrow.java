@@ -1,4 +1,4 @@
-package oop.lps;
+package oop.lsp;
 
 public class Sparrow implements Flyable{ // implements Flyable mean moveable+flyable
     @Override
