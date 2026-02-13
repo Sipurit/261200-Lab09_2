@@ -11,3 +11,8 @@ public class Eagle implements Flyable{
         System.out.println("Eagle is Flying");
     }
 }
+
+/*
+ * Eagle is a flying bird.
+ * Fully respects Flyable contract.
+ */

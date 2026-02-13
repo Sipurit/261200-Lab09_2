@@ -11,3 +11,4 @@ public class Sparrow implements Flyable{ // implements Flyable mean moveable+fly
         System.out.println("Sparrow is Flying");
     }
 }
+

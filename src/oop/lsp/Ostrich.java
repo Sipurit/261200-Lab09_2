@@ -6,3 +6,8 @@ public class Ostrich implements Moveable{
         System.out.println("Ostrich is Moving");
     }
 }
+
+/*
+ * Ostrich is a non-flying bird.
+ * Implements Moveable only.
+ */
